@@ -26,7 +26,9 @@ Week 1
 We ranked our topic choices as a team during our meeting on 2026-08-26. Each of us listed our preferences, compared them, and agreed on a final order before submitting.
 
 ## Meeting Minutes
-in lab with Ray and Minh 
+**Date:** 2026-08-28
+**Format:** In person, during lab
+**Attendees:** Anas Albahri, Ray Zhang, Minh Hoang Nguyen
 
 **Decisions**
 - Ranked our topics
