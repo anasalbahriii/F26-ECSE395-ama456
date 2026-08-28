@@ -38,7 +38,7 @@ By the end I can write formatted `.md` files, create and clone a repository, and
 
 **1. How long did this take?**
 
-about 15 mins
+about 3 hours in total
 
 **2. Difficulty level?**
 
