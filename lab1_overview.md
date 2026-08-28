@@ -49,7 +49,7 @@ about 15 mins
 **2. Difficulty level?**
 
 - [x] Low
-- [] Medium
+- [ ] Medium
 - [ ] High
 
 **3. Hardest part?**
