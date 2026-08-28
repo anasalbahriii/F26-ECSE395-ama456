@@ -14,16 +14,10 @@ By the end I can write formatted `.md` files, create and clone a repository, and
 ## Steps
 
 1. Read the Markdown Guide and practiced headers, lists, tables, and text styles.
-2. Created a public repository from the `ECSE395-github` template.
-3. Renamed the repository to `F26-ECSE395-ama456`.
-4. Added a description to the repository through the GitHub *About* panel.
-5. Cloned the repository to my laptop with GitHub Desktop.
-6. Edited `README.md` in the `Weekly project log` folder to describe the log and hold the table of contents.
-7. Wrote `Week1.md` documenting my project work for the week.
-8. Created this file and wrote the overview.
-9. Committed each file separately with `git commit`.
-10. Pushed everything with `git push origin main`.
-11. Added this reflection.
+2. Created a public repository`F26-ECSE395-ama456` with a description 
+3. Wrote `Week1.md` and 'Lab1_Overview documenting my project work for the week.
+4. Committed each file separately with `git commit`.
+5. Pushed everything with `git push origin main`.
 
 ## Markdown Features I Used
 
