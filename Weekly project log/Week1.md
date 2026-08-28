@@ -1,7 +1,7 @@
 # Week 1: Project Log
 
 **Anas Albahri (ama456)** — ECSE 395, Fall 2026
-Week 1
+*Week 1*
 
 ## What We Did
 
