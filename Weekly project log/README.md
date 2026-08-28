@@ -1,6 +1,7 @@
-#Weekly Project Log
+# Week 1: Project Log
 
-**Anas Albahri (ama456) - ECSE 395, Fall 2026**
+**Anas Albahri (ama456)** — ECSE 395, Fall 2026
+Week 1
 
 This folder is my weekly log and accountability record for the semester project. Each time I work on the project, I add a dated entry to the current week's file describing what I did, what the team decided, and what is blocking us.
 
