@@ -6,7 +6,7 @@ Week 1
 ## What We Did
 
 **2026-08-26**
-- Formed a team with Minh Hoang Nguyen, and Ray Zhang
+- Formed a team with Minh Hoang Nguyen and Ray Zhang
 - Created a group chat for team communication
 
 **2026-08-28**
