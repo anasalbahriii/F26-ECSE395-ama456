@@ -5,18 +5,15 @@ Week 2: Project Log
 ## What We Did
 
 **2026-09-02**
-
-- Met as a group via zoom and Prepared questions for our stakeholder interview
-- Split the note-taking and question-asking roles across the team
+- Met as a group via zoom (the day before the meeting with the stakeholder) and Prepared questions for our stakeholder interview
+- Split the note-taking and quesytion-asking roles across the team
 
 **2026-09-03**
-
 - Interviewed our stakeholder over zoom
 - Documented her problem, her routine, and her constraints
 - Wrote up the interview summary 
 
 **2026-09-04**
-
 - Updated this log and the table of contents
 - Committed and pushed my work
 
@@ -51,7 +48,6 @@ Week 2: Project Log
 - an image of the window
 
 ## Meeting Minutes
-
 - **Date:** 2026-09-02
 - **Time** 1:00 pm -> 1:40 pm
 - **Format:** Virtual
@@ -59,12 +55,11 @@ Week 2: Project Log
 
 
 **Action Items**
-- draft the follow-up email
+- draft a follow-up email
 - All: review the interview summary
 - All: update our weekly logs
 
 ## My Contributions
-
 - Wrote the interview summary and notes
 - Reviewed the interview summary
 - Updated my repository and this log
