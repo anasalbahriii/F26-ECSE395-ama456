@@ -1,0 +1,52 @@
+# Lab 2: ESP32 Basics
+
+**Anas Albahri (ama456)** — ECSE 395, Fall 2026
+September 4, 2026
+
+## Overview
+
+This is my first assignment working with the ESP32. I made the onboard LED blink in a custom pattern and printed my own messages to the serial monitor.
+
+I used the Adafruit ESP32 Feather V2 with VS Code and the PlatformIO IDE extension. I uploaded my code over a USB-C data cable using PlatformIO's Upload task.
+
+## Steps
+
+1. Installed VS Code and the PlatformIO IDE extension.
+2. Created a project named `Blink Test`, board `Adafruit Feather ESP32 V2`, framework `Arduino`.
+3. Added `monitor_speed = 115200` to `platformio.ini'
+4. Opened `main.cpp` and filled in the skeleton code.
+5. Replaced the single blink with my own three-stage pattern.
+6. Wrote my own serial message 
+7. Built the code, uploaded it, and opened the serial monitor.
+8. Demonstrated the working board to prof.Fu
+9. Recorded a video and pushed my code to my repository.
+
+## My Choices
+Blink timing. I set the LED to 300 ms on and 300 ms off.I picked 300 ms because the blink stays easy to follow without dragging.
+
+Serial message. The loop prints Still blinking on every cycle. Each new line tells me the board is running rather than frozen.
+## Video
+check blink-demo.mp4 file
+
+## Reflection and Time Reporting
+
+**1. How long did this take?**
+around 90 mins in total
+
+**2. Difficulty level?**
+
+- [x] Low
+- [ ] Medium
+- [ ] High
+
+**3. Hardest part?**
+
+N/A
+
+**4. How comfortable do you feel with the course content?**
+so far I feel very comfortable with the Content
+
+**5. Feedback for the instructors?**
+N/A
+
+[EDIT]
