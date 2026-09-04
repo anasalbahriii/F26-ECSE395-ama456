@@ -20,12 +20,6 @@ Week 2: Project Log
 - Updated this log and the table of contents
 - Committed and pushed my work
 
-# Week 2: Project Log
-
-**Anas Albahri (ama456)** — ECSE 395, Fall 2026
-Week of August 31 – September 4, 2026
-
-
 ## Stakeholder Interview
 
 **Background**
