@@ -11,6 +11,7 @@ Every week gets its own file. This README is the table of contents.
 | Week | File | Summary |
 | --- | --- | --- |
 | 1 | [Week1.md](Week1.md) | Team formation, topic ranking, team contract, first stakeholder email |
+| 2 | [Week2.md](Week2.md) | Stakeholder interview, problem definition, design constraints |
 
 ## How I keep this log
 
