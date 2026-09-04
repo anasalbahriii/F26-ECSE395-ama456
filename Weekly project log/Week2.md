@@ -52,10 +52,10 @@ Week 2: Project Log
 
 ## Meeting Minutes
 
-**Date:** 2026-09-02
-**Time** 1:00 pm -> 1:40 pm
-**Format:** Virtual
-**Attendees:** Anas Albahri, Ray Zhang, Minh Hoang Nguyen
+- **Date:** 2026-09-02
+- **Time** 1:00 pm -> 1:40 pm
+- **Format:** Virtual
+- **Attendees:** Anas Albahri, Ray Zhang, Minh Hoang Nguyen
 
 
 **Action Items**
