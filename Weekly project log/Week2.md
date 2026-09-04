@@ -20,6 +20,7 @@ Week 2: Project Log
 - Updated this log and the table of contents
 - Committed and pushed my work
 
+
 ## Stakeholder Interview
 
 **Background**
