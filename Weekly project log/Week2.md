@@ -5,8 +5,8 @@
 ## What We Did
 
 **2026-09-02**
-- Met as a group via zoom (the day before the meeting with the stakeholder) and Prepared questions for our stakeholder interview
-- Split the note-taking and quesytion-asking roles across the team
+- Met as a group via zoom (the day before the meeting with the stakeholder),and Prepared questions for our stakeholder interview
+- Split the note-taking and question-asking roles across the team
 
 **2026-09-03**
 - Interviewed our stakeholder over zoom
