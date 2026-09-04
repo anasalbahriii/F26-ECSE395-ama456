@@ -43,8 +43,6 @@ We ranked our topic choices as a team during our meeting on 2026-08-26. Each of 
 ## Stakeholder Email
 <img width="1008" height="626" alt="Screenshot 2026-08-28 at 3 07 53 PM" src="https://github.com/user-attachments/assets/9ffa713d-b58a-4bc6-bd9b-2676f9fdccbb" />
 
-
-
 ## My Contributions
 
 - Reviewed team contract
