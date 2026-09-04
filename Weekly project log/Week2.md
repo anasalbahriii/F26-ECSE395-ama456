@@ -53,6 +53,9 @@
 - **Format:** Virtual
 - **Attendees:** Anas Albahri, Ray Zhang, Minh Hoang Nguyen
 
+**Decisions**
+- Target the dog medication step as our sensing moment
+- Treat her proposed solutions as evidence, not requirements
 
 **Action Items**
 - draft a follow-up email
