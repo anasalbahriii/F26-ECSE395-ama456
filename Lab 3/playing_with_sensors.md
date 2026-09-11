@@ -27,8 +27,6 @@ This is my second assignment working with the ESP32. I connected two sensors and
 - `potentiometer.cpp` — reads the raw analog value from the potentiometer, 0 to 4095
 - `voltage.cpp` — converts that reading into a voltage and prints it
 - `touch.cpp` — reads the touch sensor and lights the onboard LED on contact
-- `potentiometer-demo.mp4` — video of the knob turning and the voltage changing
-- `touch-demo.mp4` — video of the touch sensor and the LED responding
 
 **How to run any of these.** Only one `setup()` and one `loop()` can exist in `src` at a time. Comment out every other `.cpp` with `/*` before the first line and `*/` after the last, leave one uncommented, then build and upload.
 
@@ -54,11 +52,6 @@ With a 3.3 V reference and a resolution of 4095, a full turn moves the output fr
 
 **Combining with Lab 2.** I defined the onboard LED at the top of the file, set it as an output in `setup()`, and added an `if` and `else` in the main loop. On contact the board prints `Touch detected!` and turns the LED on. On release it prints `No touch detected...` and turns the LED off.
 
-## Videos
-
-- `potentiometer-demo.mp4` shows the circuit, the knob turning, and the voltage changing.
-- `touch-demo.mp4` shows the circuit, the serial output, and the LED switching with contact.
-
 ## Reflection and Time Reporting
 
 **1. How long did this take?**
@@ -67,8 +60,8 @@ around 3 hours
 
 **2. Difficulty level?**
 
-- [ ] Low
-- [x] Medium
+- [x] Low
+- [ ] Medium
 - [ ] High
 
 **3. Hardest part?**
@@ -77,7 +70,7 @@ N/A
 
 **4. How comfortable do you feel with the course content?**
 
-pretty comfortable 
+pretty comfortable so far
 
 **5. Feedback for the instructors?**
 
