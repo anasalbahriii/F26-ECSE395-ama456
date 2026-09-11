@@ -45,5 +45,4 @@ Week 3
 - All: review the document before the deadline
 
 ## Next Week
-
-- Work on the presentation 
+- [ ] Work on the presentation
