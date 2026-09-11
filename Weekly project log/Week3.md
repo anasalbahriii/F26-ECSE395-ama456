@@ -45,4 +45,5 @@ Week 3
 - All: review the document before the deadline
 
 ## Next Week
+- [ ] Functional and Technical Specifications
 - [ ] Work on the presentation
