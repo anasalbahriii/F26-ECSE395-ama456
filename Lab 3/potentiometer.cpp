@@ -15,6 +15,6 @@ void setup() {
 void loop() {
   // ama456: Read the potentiometer and print the raw value straight away, The ESP32 ADC is 12-bit, so turning the knob sweeps 0 to 4095.
   Serial.println(analogRead(pin));
-
-  delay(50);
+  // ama456: changed it to 200
+  delay(200);
 }
