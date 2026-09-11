@@ -6,7 +6,7 @@ Week 3
 ## What the Team Did
 
 **2026-09-08**
-- Met in person from 6:00 to 8:00 PM to work on the Project Background and Needs Statement
+- Met on zoom from 6:00 to 8:00 PM to work on the Project Background and Needs Statement
 - Split the assignment sections between the three of us
 - Built our Figma affinity board together, moving every interview note onto its own sticky and grouping them into themes
 - Wrote our needs statement as a group
