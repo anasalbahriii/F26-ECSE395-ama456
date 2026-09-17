@@ -39,8 +39,11 @@ Week 4
 ## Meeting Minutes
 
 **Date:** 2026-09-15
+
 **Time:** 6:00 to 7:00 PM
+
 **Format:** In person
+
 **Attendees:** Anas Albahri, Ray Zhang, Minh Hoang Nguyen
 
 **Decisions**
