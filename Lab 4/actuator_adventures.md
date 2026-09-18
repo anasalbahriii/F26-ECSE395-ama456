@@ -45,10 +45,10 @@ I carried out the process using PlatformIO in VS Code; a checkmark in the status
 
 ## Circuit Photos
 
-# TT motor with L9110 driver
+### TT motor with L9110 driver
 <img width="302" height="403" alt="IMG_2876" src="https://github.com/user-attachments/assets/d14eb9e4-f4c8-4ebe-87ba-de32e24435ed" />
 
-# SG90 servo
+### SG90 servo
 <img width="302" height="403" alt="IMG_2873" src="https://github.com/user-attachments/assets/dae4ae1e-ea77-433f-a93e-6ed7056fcd69" />
 
 
