@@ -94,8 +94,7 @@ N/A
 
 **4. How comfortable do you feel with the course content?**
 
-so far, yes
+so far, I feel comfortable.
 
 **5. Feedback for the instructors?**
-
 N/A
