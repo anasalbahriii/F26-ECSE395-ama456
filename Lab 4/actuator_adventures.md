@@ -75,3 +75,27 @@ I tested the changes below during the lab and recorded how the TT motor and serv
 **Rotation range.** narrowed the commanded range to 45–135 degrees, and the servo swept a smaller arc. The motion matched the original sweep inside the new limits.
 
 **`delay`.** The delay between one-degree position updates set the sweep speed. A short delay sped the sweep up; a long one slowed it down.
+
+
+## Reflection and Time Reporting
+
+**1. How long did this take?**
+
+about 5 hours in total
+
+**2. Difficulty level?**
+
+- [ ] Low
+- [x] Medium
+- [ ] High
+
+**3. Hardest part?**
+N/A
+
+**4. How comfortable do you feel with the course content?**
+
+so far, yes
+
+**5. Feedback for the instructors?**
+
+N/A
