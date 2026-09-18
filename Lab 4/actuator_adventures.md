@@ -4,7 +4,7 @@
 
 ## Overview
 
-I have now completed three tasks relating to work on the ESP32; in this instance I connected two actuators and controlled them with some code — namely a TT gear motor driven by an L9110 motor driver and an SG90 servo.
+I have now completed three tasks relating to work on the ESP32; in this instance I connected two actuators and controlled them with some code, namely a TT gear motor driven by an L9110 motor driver and an SG90 servo.
 
 Unlike the servo, the TT motor continues to rotate and the speed and direction it attains are controlled by PWM without relying on positional feedback; the servo, by contrast, holds the angle that has been commanded by making the necessary adjustments using an internal potentiometer.
 
