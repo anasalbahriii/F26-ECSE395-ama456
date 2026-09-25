@@ -1,7 +1,7 @@
 # Week 5: Project Log
 
 **Anas Albahri (ama456)** — ECSE 395, Fall 2026
-Week of September 21–25, 2026
+Week 5
 
 ## What the Team Did
 
