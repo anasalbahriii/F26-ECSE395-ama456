@@ -29,7 +29,9 @@ Week of September 21–25, 2026
 ## Meeting Minutes
 
 **Date:** 2026-09-21
+
 **Format:** Online
+
 **Attendees:** Anas Albahri, Ray Zhang, Minh Hoang Nguyen
 
 **Decisions**
