@@ -51,4 +51,4 @@ N/A
 
 - [ ] Finish the Concept Selection and Gantt Chart
 - [ ] Work on System Architecture and Prototype Plan
-- [ ] work on prototypes 
+- [ ] Work on prototypes 
