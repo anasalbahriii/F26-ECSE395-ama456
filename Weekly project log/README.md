@@ -16,6 +16,7 @@ Every week gets its own file. This README is the table of contents.
 | 4 | [Week4.md](Week4.md) | Functional and technical specifications, class presentation |
 | 5 | [Week5.md](Week5.md) | Brainstorming milestone, three concepts, stakeholder meeting rescheduled |
 | 6 | [Week6.md](Week6.md) | Stakeholder meeting, concept presentation, concept selection started |
+| 7 | [Week7.md](Week7.md) | Concept selection, Gantt chart, system architecture, prototype plan |
 ## How I keep this log
 
 - I date every line item as YYYY-MM-DD.
