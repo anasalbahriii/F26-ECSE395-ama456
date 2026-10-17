@@ -30,8 +30,11 @@ Week 8
 ## Meeting Minutes
 
 **Date:** 2026-10-12 & 2026-10-16
+
 **Time:** 12:30 to 3:30 pm
+
 **Format:** In Person
+
 **Attendees:** Anas Albahri, Ray Zhang, Minh Hoang Nguyen
 
 **Discussion**
