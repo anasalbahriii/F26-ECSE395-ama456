@@ -18,6 +18,7 @@ Week 9
 **2026-10-23**
 - Worked on midterm presentation powerpoint slides covering every rubric section
 
+
 ## My Contributions
 
 **2026-10-17**
@@ -33,7 +34,9 @@ Week 9
 ## Meeting Minutes
 
 **Date:** 2026-10-17 and 2026-10-18
+
 **Format:** In person
+
 **Attendees:** Anas Albahri, Ray Zhang, Minh Hoang Nguyen
 
 **Discussion**
@@ -43,7 +46,7 @@ Week 9
 **Decisions**
 - Prototype 3 runs wired on one ESP32
 - Wireless moves to the MVP once batteries arrive
-- 
+  
 **Action Items**
 - All: midterm presentation and Prototypes 1, 2, and 3
 
