@@ -17,6 +17,8 @@ Every week gets its own file. This README is the table of contents.
 | 5 | [Week5.md](Week5.md) | Brainstorming milestone, three concepts, stakeholder meeting rescheduled |
 | 6 | [Week6.md](Week6.md) | Stakeholder meeting, concept presentation, concept selection started |
 | 7 | [Week7.md](Week7.md) | Concept selection, Gantt chart, system architecture, prototype plan |
+| 8 | [Week8.md](Week8.md) | Verification and Validation Plan, Prototypes 1 and 2 complete, Prototype 3 started |
+| 9 | [Week9.md](Week9.md) | Wireless integration plan, wired Prototype 3, MVP power plan, midterm deck |
 ## How I keep this log
 
 - I date every line item as YYYY-MM-DD.
