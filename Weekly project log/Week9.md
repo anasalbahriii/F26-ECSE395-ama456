@@ -25,7 +25,7 @@ Week 9
 
 **2026-10-18**
 - built Prototype 3
-- 
+  
 **2026-10-23**
 - Wrote the prototypes section of presentation
 - Updated my repository and wrote this log
