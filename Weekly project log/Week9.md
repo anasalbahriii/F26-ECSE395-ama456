@@ -50,9 +50,6 @@ Week 9
 **Action Items**
 - All: midterm presentation and Prototypes 1, 2, and 3
 
-## Blockers
-N/A
-
 ## Next Week
 
 - [ ] Deliver the midterm presentation
