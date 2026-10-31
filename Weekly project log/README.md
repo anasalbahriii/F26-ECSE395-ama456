@@ -19,6 +19,7 @@ Every week gets its own file. This README is the table of contents.
 | 7 | [Week7.md](Week7.md) | Concept selection, Gantt chart, system architecture, prototype plan |
 | 8 | [Week8.md](Week8.md) | Verification and Validation Plan, Prototypes 1 and 2 complete, Prototype 3 started |
 | 9 | [Week9.md](Week9.md) | Wireless integration plan, wired Prototype 3, MVP power plan, midterm deck |
+| 10 | [Week10.md](Week10.md) | Midterm presentation delivered, System Architecture resubmitted, MVP build |
 ## How I keep this log
 
 - I date every line item as YYYY-MM-DD.
