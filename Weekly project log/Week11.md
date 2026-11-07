@@ -35,7 +35,9 @@ Week of November 2–6, 2026
 ## Meeting Minutes
 
 **Date:** 2026-11-06
+
 **Format:** In person, Sears Lab
+
 **Attendees:** Anas Albahri, Ray Zhang, Minh Hoang Nguyen
 
 **Discussion**
