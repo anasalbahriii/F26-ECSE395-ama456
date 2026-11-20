@@ -22,6 +22,7 @@ Every week gets its own file. This README is the table of contents.
 | 10 | [Week10.md](Week10.md) | Midterm presentation delivered, System Architecture resubmitted, MVP build |
 | 11 | [Week11.md](Week11.md) | ESP-NOW integration, gyroscope crate node, CSV event logging, design review |
 | 12 | [Week12.md](Week12.md) | Phone notifications, threshold tuning, first user validation session, checkpoint submitted |
+| 13 | [Week13.md](Week13.md) | Code refinement, Data Analysis Checkpoint, final report sections |
 ## How I keep this log
 
 - I date every line item as YYYY-MM-DD.
